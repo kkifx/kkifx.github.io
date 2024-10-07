@@ -8,7 +8,7 @@
     <link href="/2024/10/07/%E9%94%85%E6%B8%A3/"/>
     <url>/2024/10/07/%E9%94%85%E6%B8%A3/</url>
     
-    <content type="html"><![CDATA[<figure class="highlight arcade"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs arcade"><span class="hljs-built_in">console</span>.<span class="hljs-built_in">log</span>(<span class="hljs-string">&#x27;你好，世界&#x27;</span>)<br></code></pre></td></tr></table></figure>]]></content>
+    <content type="html"><![CDATA[<figure class="highlight"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs">这是一篇测试文章<br></code></pre></td></tr></table></figure>]]></content>
     
     
     
